@@ -3,8 +3,8 @@ MAINTAINER Zhiliang Zhou <zhouzhiliang@gmail.com>
 
 # this Dockerfile is modified from Dockerfile from CPFL/Autoware/1.1.2
 # reference link https://github.com/CPFL/Autoware/blob/1.1.2/docker/Dockerfile
-# Different parts
-# add three dependencies
+# Major different parts
+# add missing dependencies
 # apt-get install libglew-dev ros-indigo-grid-map ros-indogo-sicktoolbox ros-indigo-sicktoolbox-wrapper ros-indigo-velocity-controllers
 
 # Intall ROS dependencies
